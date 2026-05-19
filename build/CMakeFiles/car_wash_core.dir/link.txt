@@ -1,2 +1,0 @@
-/home/matias/emsdk/upstream/emscripten/emar qc libcar_wash_core.a CMakeFiles/car_wash_core.dir/cpp_app/car_wash.cc.o
-/home/matias/emsdk/upstream/emscripten/emranlib libcar_wash_core.a
