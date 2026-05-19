@@ -1,0 +1,4 @@
+/home/matias/creativa-github/embind-lab/build/CMakeFiles/car_wash_core.dir
+/home/matias/creativa-github/embind-lab/build/CMakeFiles/car_wash.dir
+/home/matias/creativa-github/embind-lab/build/CMakeFiles/edit_cache.dir
+/home/matias/creativa-github/embind-lab/build/CMakeFiles/rebuild_cache.dir

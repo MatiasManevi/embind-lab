@@ -1,0 +1,1 @@
+/home/matias/emsdk/upstream/emscripten/em++ -fexceptions --bind -gsource-map -s MODULARIZE=1 -s EXPORT_ES6=1 -s ALLOW_MEMORY_GROWTH=1 --emit-tsd=/home/matias/creativa-github/embind-lab/dist/car_wash.d.ts @CMakeFiles/car_wash.dir/objects1.rsp -o car_wash.js @CMakeFiles/car_wash.dir/linkLibs.rsp
